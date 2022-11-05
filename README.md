@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Mstolarek
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning React Native
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Mstolarek , frontend developer
+- 👀 My goal is to become full-fledged Mobile developer
+- 🌱 Tech stack : TypeScript, React, React Native, Redux, Cypress, Git, Gitlab
+- 📫 You can reach me on mstolarek6@gmail.com or https://www.linkedin.com/in/maciej-stolarek-591596224/
 
-<!---
-Mstolarek/Mstolarek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
